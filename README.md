@@ -35,13 +35,6 @@ Currently: **Light Healthcare** (HMS for hospitals) · **Orbit AI** · LFX Mento
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ojasshelke46&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojasshelke46&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-
-</div>
-
 ### Links
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ojaspro.in-58A6FF?style=flat-square&logo=safari&logoColor=white)](https://ojaspro.in)
