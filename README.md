@@ -44,6 +44,5 @@ Currently: **Light Healthcare** (HMS for hospitals) · **Orbit AI** · LFX Mento
 
 ### Links
 
-<!-- add portfolio + LinkedIn URLs here -->
-- Portfolio: 
-- LinkedIn: 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ojaspro.in-58A6FF?style=flat-square&logo=safari&logoColor=white)](https://ojaspro.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ojas_Shelke-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojas-shelke-076936371/)
