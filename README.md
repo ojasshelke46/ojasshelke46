@@ -24,7 +24,6 @@ Currently: **Light Healthcare** (HMS for hospitals) · **Orbit AI** · LFX Mento
 
 *Some merge-commit links above point directly to the commit rather than the PR page — those PRs were opened from a prior GitHub account that's since been restricted, so the PR page itself is inaccessible even though the merged commit is permanent, public git history.*
 
-**Currently applying to CNCF LFX Mentorship Term 3 — apps close Aug 18, 2026.**
 
 ### Stack
 
